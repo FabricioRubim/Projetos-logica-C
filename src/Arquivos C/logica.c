@@ -5,6 +5,8 @@
 
 int main()
 {
+    // Ints
+    
 	int num1 = 10;
     int num2 = 4;
     
